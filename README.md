@@ -1,22 +1,16 @@
-### Olá, meu nome é Carlos Daniel 👋
+<h1> Olá, meu nome é Carlos Daniel 👋 </h1>
 
-## Ferramentas e Tecnologias
+<p>
+  <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Conecte-se comigo no LinkedIn.
+  </samp>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-                    
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima/)](https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosdqlima/)](https://www.instagram.com/carlosdqlima)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@carlos.dq.lima@gmail.com)](mailto:mail@carlos.dq.lima@gmail.com)
+  
+---
 
-
-Fascinado por negócios e tecnologia.
-
-## Contatos:
-
-<div>
-<a href="https://instagram.com/carlosdqlima" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:carlos.dq.lima@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div>
-<a href="https://github.com/carlosdqlima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdqlima&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdqlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosdqlima&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carlosdqlima&theme=dark&hide_border=true" width="400">
+</p>
