@@ -1,4 +1,8 @@
-<h1> Olá, meu nome é Carlos Daniel 👋 </h1>
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=25&pause=1000&color=2E95D9&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Carlos+Lima+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 <p>
   <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Conecte-se comigo no LinkedIn.
@@ -10,9 +14,10 @@
   
 ---
 
+<div style="text-align: center;" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=1000&color=2E95D9&center=true&vCenter=true&width=435&lines=*+GitHub+Stats+*" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosdqlima&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=carlosdqlima&theme=dark&hide_border=true" width="400">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlosdqlima&theme=python-dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
 
 #
