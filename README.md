@@ -1,10 +1,6 @@
 
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=25&pause=1000&color=2E95D9&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil+!%F0%9F%91%8B" alt="Typing SVG" /></a>
-
-
-#
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=700&size=25&pause=1000&color=2E95D9&vCenter=true&repeat=false&height=40&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil+!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <p>
   <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas.
