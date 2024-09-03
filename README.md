@@ -1,8 +1,8 @@
 
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=25&pause=1000&color=2E95D9&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Carlos+Lima+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=25&pause=1000&color=2E95D9&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil+!%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 
 #
 
@@ -17,11 +17,11 @@
   
 ---
 
-<div style="text-align: center;" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=1000&color=2E95D9&center=true&vCenter=true&width=435&lines=*+GitHub+Stats+*" alt="Typing SVG" /></a>
-<p align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=1000&color=2E95D9&width=435&lines=*+GitHub+Stats+*" alt="Typing SVG" /></a>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlosdqlima&theme=python-dark&locale=pt_BR" alt="GitHub Streak" /></a>
-</p>
+
 
 #
 
