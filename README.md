@@ -50,7 +50,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="powerbi"  />
+  <img src="https://img.shields.io/badge/looker-fbfbfb?style=for-the-badge&logo=looker&logoColor=blue" height="30" alt="powerbi"  />
   <img width="5" />
 </div>
 
