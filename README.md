@@ -44,13 +44,15 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="google cloud logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/looker-fbfbfb?style=for-the-badge&logo=looker&logoColor=blue" height="30" alt="powerbi"  />
+  <img src="https://img.shields.io/badge/looker-fbfbfb?style=for-the-badge&logo=looker&logoColor=blue" height="30" alt="looker studio logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="power bi logo"  />
   <img width="5" />
 </div>
 
