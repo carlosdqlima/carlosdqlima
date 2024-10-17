@@ -1,8 +1,8 @@
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c841uzy4vqj12bgqxs4mz8f2yycdh1jzssqdqmh7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/bbac85bb-06c8-4902-a041-3ab74c91d700"  width="400px" align="right">
 
-<p align="left"> 
+<p align="left" > 
   <strong>Seja bem vindo ao meu perfil!👋</strong>
   
   <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estudando análise de dados
