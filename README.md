@@ -1,15 +1,15 @@
 
 
-<img src="https://github.com/user-attachments/assets/bbac85bb-06c8-4902-a041-3ab74c91d700"  width="400px" align="right">
 
-<p align="left" > 
-  <strong>Seja bem vindo ao meu perfil!👋</strong>
+<p align="left"> 
   
-  <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estudando análise de dados
-  </samp>
+  <strong><h1 style="display: inline; font-size: 32px;">Seja bem-vindo ao meu perfil!👋</h1></strong>
+  <img src="https://github.com/user-attachments/assets/bbac85bb-06c8-4902-a041-3ab74c91d700"  width="400px" align="right">
+
+  <samp style="font-size: 16px;">Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estudando análise de dados.</samp>
 </p>
 
-<p>
+
 
 <p <p align="left">
   🔗 Conecte-se comigo no Linkedin ↴
@@ -39,14 +39,7 @@
 </p>
 </p>
 
-#
 
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Estatísticas+do+GitHub+↴" alt="Typing SVG" /></a>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlosdqlima&theme=python-dark&locale=pt_BR" alt="GitHub Streak"/></a>
-</p>
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosdqlima/carlosdqlima/output/github-contribution-grid-snake-dark.svg">
