@@ -3,7 +3,7 @@
 
 <h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=100&size=25&pause=100&color=2E95D9&vCenter=true&repeat=false&height=40&lines=Ol%C3%A1%2C+Seja+bem-vindo!%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c841uzy4vqj12bgqxs4mz8f2yycdh1jzssqdqmh7&ep=v1_gifs_search&rid=giphy.gif&ct=g" min-width="200px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c841uzy4vqj12bgqxs4mz8f2yycdh1jzssqdqmh7&ep=v1_gifs_search&rid=giphy.gif&ct=g" min-width="200px" max-width="400px" width="350px" align="right">
 
 <p>
   <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas.
