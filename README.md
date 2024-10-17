@@ -6,12 +6,12 @@
   <strong><h1 style="display: inline; font-size: 32px;">Seja bem-vindo ao meu perfil!👋</h1></strong>
   <img src="https://github.com/user-attachments/assets/bbac85bb-06c8-4902-a041-3ab74c91d700"  width="400px" align="right">
 
-  <samp style="font-size: 16px;">Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estudando análise de dados.</samp>
-</p>
+  <samp style="font-size: 16px;">Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas.</samp>
+</p><br>
 
 
 
-<p <p align="left">
+<p align="left">
   🔗 Conecte-se comigo no Linkedin ↴
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosdqlima/)](https://www.instagram.com/carlosdqlima)
