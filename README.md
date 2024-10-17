@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  🔗 Conecte-se comigo no Linkedin ↴
+  <strong>🔗 Conecte-se comigo no Linkedin ↴</strong>
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosdqlima/)](https://www.instagram.com/carlosdqlima)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@carlos.dq.lima@gmail.com)](mailto:mail@carlos.dq.lima@gmail.com)
@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  📊 Tenho conhecimento em ↴
+  <strong>📊 Tenho conhecimento em ↴</strong>
 
 <div align="left">
 <img src="https://img.shields.io/badge/-Google_Colab-white?logo=Google Colab">
