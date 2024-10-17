@@ -5,20 +5,21 @@
 <p align="left"> 
   <strong>Seja bem vindo ao meu perfil!👋</strong>
   
-  <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estou estudando análise de dados e IA
+  <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estudando análise de dados
   </samp>
 </p>
 
 <p>
 
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Conecte-se+comigo+no+Linkedin+↴" alt="Typing SVG" /></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Conecte-se+comigo+no+Linkedin+↴" alt="Typing SVG" /></a>
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosdqlima/)](https://www.instagram.com/carlosdqlima)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@carlos.dq.lima@gmail.com)](mailto:mail@carlos.dq.lima@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima/)](https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima)
   [![kaggle Badge](https://img.shields.io/badge/-Kaggle-white?logo=Kaggle)](https://www.kaggle.com/carlosslimaa)
+</p>
 
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Tenho+conhecimento+em+↴" alt="Typing SVG" /></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Tenho+conhecimento+em+↴" alt="Typing SVG" /></a>
 
 <div align="left">
 <img src="https://img.shields.io/badge/-Google_Colab-white?logo=Google Colab">
@@ -34,12 +35,14 @@
 <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=Power BI"> 
 </div>
 </p>
+</p>
 
 #
 
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Estatísticas+do+GitHub+↴" alt="Typing SVG" /></a></p>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Estatísticas+do+GitHub+↴" alt="Typing SVG" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlosdqlima&theme=python-dark&locale=pt_BR" alt="GitHub Streak"/></a>
+</p>
 
 #
 
