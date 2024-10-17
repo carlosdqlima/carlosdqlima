@@ -1,19 +1,22 @@
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c841uzy4vqj12bgqxs4mz8f2yycdh1jzssqdqmh7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="350px" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c841uzy4vqj12bgqxs4mz8f2yycdh1jzssqdqmh7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="450px" align="right">
 
-<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=100&size=25&pause=100&color=2E95D9&vCenter=true&repeat=false&height=40&lines=Ol%C3%A1%2C+Seja+bem-vindo!%F0%9F%91%8B" alt="Typing SVG"/></a></h2>
+<p align="left"> 
+  <strong>Seja bem vindo ao meu perfil!👋</strong>
+  
+  <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas. Atualmente estou estudando análise de dados e IA
+  </samp>
+</p>
 
 <p>
-  <samp>Sou fascinado por negócios e tecnologia e gosto de aprender coisas novas.
-  </samp>
 
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Conecte-se+comigo+no+Linkedin+↴" alt="Typing SVG" /></a></p>
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosdqlima/)](https://www.instagram.com/carlosdqlima)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@carlos.dq.lima@gmail.com)](mailto:mail@carlos.dq.lima@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima/)](https://www.linkedin.com/in/carlos-daniel-de-queiroz-lima)
-  
+  [![kaggle Badge](https://img.shields.io/badge/-Kaggle-white?logo=Kaggle)](https://www.kaggle.com/carlosslimaa)
 
 <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&pause=100&color=2E95D9&width=500&lines=Tenho+conhecimento+em+↴" alt="Typing SVG" /></a></p>
 
