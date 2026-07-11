@@ -34,12 +34,10 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white">
   <!-- Dados & Analytics -->
   <img src="https://img.shields.io/badge/-Python-white?logo=Python"> 
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas"> 
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Looker-fbfbfb?&logo=looker&logoColor=blue">
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=Power BI"> 
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi"> 
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white">
   <!-- Design -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
