@@ -6,8 +6,8 @@
   <strong><h1 style="display: inline; font-size: 32px;">Seja bem-vindo ao meu perfil!👋</h1></strong>
   <img src="https://github.com/user-attachments/assets/bbac85bb-06c8-4902-a041-3ab74c91d700"  width="400px" align="right">
 
-  <samp style="font-size: 16px;">Sou <b>Analista de Dados & Business Intelligence</b>, fascinado por negócios e tecnologia.</samp><br><br>
-  <samp style="font-size: 16px;">Transformo dados em insights estratégicos para impulsionar a tomada de decisão.</samp>
+  <samp style="font-size: 16px;">Sou <b>Analista de Marketing Digital & Web Designer</b>, fascinado por negócios e tecnologia.</samp><br><br>
+  <samp style="font-size: 16px;">Busco integrar marketing digital, análise de dados e automações para impulsionar eficiência e resultados.</samp>
 </p><br>
 
 
@@ -25,17 +25,24 @@
   <strong>📊 Tecnologias & Ferramentas ↴</strong><br><br>
 
 <div align="left">
+  <!-- Marketing & Web Design -->
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?logo=googleads&logoColor=white">
+  <img src="https://img.shields.io/badge/Meta_Ads-0468FF?logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white">
+  <!-- Automação -->
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white">
+  <!-- Dados & Analytics -->
   <img src="https://img.shields.io/badge/-Python-white?logo=Python"> 
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas"> 
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=black"> 
-  <img src="https://img.shields.io/badge/-Google_Colab-white?logo=Google Colab">
   <img src="https://img.shields.io/badge/Looker-fbfbfb?&logo=looker&logoColor=blue">
   <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=Power BI"> 
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white">
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 </div>
 </p>
 
